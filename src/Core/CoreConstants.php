@@ -136,7 +136,7 @@ class CoreConstants
      * The Content Type String.
      * @var string CONTENT_TYPE
      */
-    const CONTENT_TYPE = "Content-Type";
+    const CONTENT_TYPE = "content-type";
 
     /**
      * Content type: text/xml.
